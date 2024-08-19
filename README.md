@@ -30,10 +30,10 @@ SkyCast is the perfect app for anyone seeking a refined and reliable weather app
 
 ## Demo and Resources
 #### To see SkyCast in action, check out the video below:
+https://github.com/user-attachments/assets/4d0f1f20-0d98-4b38-bd06-9f61f8a1b8e4
 
 
-
-#### Explore the application post on LinkedIn: <a target="_blank" href="*********"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-skycast-activity-7231356219108540419-MQXR?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
